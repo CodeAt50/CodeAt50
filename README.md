@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeAt50
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python on Codecademy
-- 💞️ I’m looking to collaborate on ...I would if I could. I really do but in the meantime I will wait with that until 
-I get some knowledge (basic Python, HTML, Wordpress). 
+- 💞️ I’m looking to collaborate on ...I would if I could. I really do, but in the meantime I need some knowledge to help anyone. 
+ At the moment I just know some basic Python, HTML, Wordpress. 
 - 📫 How to reach me: Twitter - @CodeAt50 
 
 <!---
